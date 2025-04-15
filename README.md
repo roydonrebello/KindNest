@@ -62,7 +62,7 @@ Follow the steps below to run the Essentials Connect Android app:
    Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/your-username/essentials-connect.git
-## 🧪 How to Run
+
 
 ### 🔧 Open the Project in Android Studio
 1. Launch **Android Studio**
