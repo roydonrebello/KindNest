@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "249559689115",
+    "firebase_url": "https://kindnest-app-default-rtdb.firebaseio.com",
+    "project_id": "kindnest-app",
+    "storage_bucket": "kindnest-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249559689115:android:e881f45643f92834ed233e",
+        "android_client_info": {
+          "package_name": "com.kamui.kindnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmSetLhecaYi5WjZNGCt0Cm2vk8iDlig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

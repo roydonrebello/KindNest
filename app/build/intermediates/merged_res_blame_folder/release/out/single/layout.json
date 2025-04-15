@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_splash.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/vol_fragment_home.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/vol_fragment_home.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/custom_spinner_dialog.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/custom_spinner_dialog.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/dialog_progress.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_donation_details.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_donation_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/account_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/account_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_admin_donation.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_admin_donation.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_add_restaurant.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_add_restaurant.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/calendar_dropdown_item.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/calendar_dropdown_item.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_login_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/history_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/history_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/home_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_update_employee.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_update_employee.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/ngo_cardview.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/ngo_cardview.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/dialog_map.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/dialog_map.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_admin_donation.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_admin_donation.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_main.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/my_popup.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/my_popup.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_example.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_example.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/my_request_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/my_request_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_edit_profile.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/nav_header.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_add_employee.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_add_employee.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_second.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_record.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_record.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_onboarding_screen.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_onboarding_screen.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_ngo_request.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_ngo_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_v_home_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_v_home_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_r_request.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_r_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/action_bar_title.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/action_bar_title.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_restaurants_details.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_restaurants_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_third.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_third.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_rc_claimed.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_rc_claimed.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/ngo_request_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/ngo_request_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_ngo_details.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_ngo_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/employee_list.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/employee_list.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_first.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/my_spinner_item_layout.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/my_spinner_item_layout.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_ahome_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_ahome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/list_item.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_rc_home.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_rc_home.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_slider.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_slider.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/restaurant_cardview.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/restaurant_cardview.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_rhome_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_rhome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_nhome_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_nhome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_signin.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_rchome_page.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_rchome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/fragment_track.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/fragment_track.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/no_internet_layout.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/no_internet_layout.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/history_child_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/history_child_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/ngo_list.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/ngo_list.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_radd_request.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_radd_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/activity_signup.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-mergeReleaseResources-43:/layout/employee_fragment.xml",
+        "source": "com.kamui.fooddonation.app-main-45:/layout/employee_fragment.xml"
+    }
+]

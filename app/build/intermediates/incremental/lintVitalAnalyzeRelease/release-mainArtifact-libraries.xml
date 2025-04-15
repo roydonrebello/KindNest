@@ -1,0 +1,1467 @@
+<libraries>
+  <library
+      name="androidx.databinding:viewbinding:7.4.2@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a4be6f1cdea80b3e982e84bcfbabb346\transformed\viewbinding-7.4.2\jars\classes.jar"
+      resolved="androidx.databinding:viewbinding:7.4.2"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a4be6f1cdea80b3e982e84bcfbabb346\transformed\viewbinding-7.4.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.github.bumptech.glide:glide:4.12.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5843e3ce93b92bdca17437c80273c645\transformed\glide-4.12.0\jars\classes.jar"
+      resolved="com.github.bumptech.glide:glide:4.12.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5843e3ce93b92bdca17437c80273c645\transformed\glide-4.12.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.osmdroid:osmdroid-mapsforge:6.1.10@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f075da856c34d9b4eaed2a5658bf6689\transformed\osmdroid-mapsforge-6.1.10\jars\classes.jar"
+      resolved="org.osmdroid:osmdroid-mapsforge:6.1.10"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f075da856c34d9b4eaed2a5658bf6689\transformed\osmdroid-mapsforge-6.1.10"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.osmdroid:osmdroid-android:6.1.10@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\jars\classes.jar"
+      resolved="org.osmdroid:osmdroid-android:6.1.10"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.libraries.places:places:2.5.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\jars\classes.jar"
+      resolved="com.google.android.libraries.places:places:2.5.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-location:18.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f83f0ef61c90a1a3802181cc9a7c8dc3\transformed\play-services-location-18.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-location:18.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f83f0ef61c90a1a3802181cc9a7c8dc3\transformed\play-services-location-18.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jsoup:jsoup:1.14.3@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.14.3\c43a81e18e6d0eb71951aa031d55d5c293c531a6\jsoup-1.14.3.jar"
+      resolved="org.jsoup:jsoup:1.14.3"/>
+  <library
+      name="com.google.firebase:firebase-database-ktx:20.0.4@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database-ktx:20.0.4"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\0ec8efbee997cb857fd7b6318ffa7d2a\transformed\lifecycle-viewmodel-ktx-2.4.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\0ec8efbee997cb857fd7b6318ffa7d2a\transformed\lifecycle-viewmodel-ktx-2.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.material:material:1.7.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8aecb4d3f14b01d72e58141809db4cea\transformed\material-1.7.0\jars\classes.jar"
+      resolved="com.google.android.material:material:1.7.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8aecb4d3f14b01d72e58141809db4cea\transformed\material-1.7.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.appcompat:appcompat:1.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b37ba0fe8486567e92444b297121d107\transformed\appcompat-1.5.1\jars\classes.jar"
+      resolved="androidx.appcompat:appcompat:1.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b37ba0fe8486567e92444b297121d107\transformed\appcompat-1.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.legacy:legacy-support-v4:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\20d14137756195ec719fdb940b6a5f7e\transformed\legacy-support-v4-1.0.0\jars\classes.jar"
+      resolved="androidx.legacy:legacy-support-v4:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\20d14137756195ec719fdb940b6a5f7e\transformed\legacy-support-v4-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-firestore-ktx:24.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f653dba6e549e727d72aa64345427e68\transformed\firebase-firestore-ktx-24.4.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-firestore-ktx:24.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f653dba6e549e727d72aa64345427e68\transformed\firebase-firestore-ktx-24.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-firestore:24.5.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4fd8fdf50b0354d0cee6bccd9d20ea3d\transformed\firebase-firestore-24.5.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-firestore:24.5.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4fd8fdf50b0354d0cee6bccd9d20ea3d\transformed\firebase-firestore-24.5.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-storage:20.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8c37661c92b79a5878b1c973853067a3\transformed\firebase-storage-20.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-storage:20.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8c37661c92b79a5878b1c973853067a3\transformed\firebase-storage-20.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-database:20.0.4@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\1cc4c4fae69c5d171ef971d39e624095\transformed\firebase-database-20.0.4\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database:20.0.4"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\1cc4c4fae69c5d171ef971d39e624095\transformed\firebase-database-20.0.4"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-database-collection:18.0.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\460005905cc1264f135b562a53a8ecb5\transformed\firebase-database-collection-18.0.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database-collection:18.0.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\460005905cc1264f135b562a53a8ecb5\transformed\firebase-database-collection-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-appcheck-interop:16.1.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\05ca0b38a738edfe9b4f0d17ad8818e8\transformed\firebase-appcheck-interop-16.1.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-appcheck-interop:16.1.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\05ca0b38a738edfe9b4f0d17ad8818e8\transformed\firebase-appcheck-interop-16.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-maps:17.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-maps:17.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-messaging-ktx:23.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5ab39c7fa7c93854827e57378694ab74\transformed\firebase-messaging-ktx-23.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-messaging-ktx:23.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5ab39c7fa7c93854827e57378694ab74\transformed\firebase-messaging-ktx-23.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-messaging:23.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-messaging:23.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-auth-ktx:21.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\3ca1e8cee748df8225c9a0d850d17e5a\transformed\firebase-auth-ktx-21.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-auth-ktx:21.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\3ca1e8cee748df8225c9a0d850d17e5a\transformed\firebase-auth-ktx-21.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-auth:21.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-auth:21.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-auth-api-phone:17.4.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\eaaa735db17429b29a623b5272e05451\transformed\play-services-auth-api-phone-17.4.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-auth-api-phone:17.4.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\eaaa735db17429b29a623b5272e05451\transformed\play-services-auth-api-phone-17.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-safetynet:17.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\79376f4768f219171e39ae7d6c27404e\transformed\play-services-safetynet-17.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-safetynet:17.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\79376f4768f219171e39ae7d6c27404e\transformed\play-services-safetynet-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-base:18.0.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-base:18.0.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-places-placereport:17.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5487061b55d4bd501a4425035d390890\transformed\play-services-places-placereport-17.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-places-placereport:17.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5487061b55d4bd501a4425035d390890\transformed\play-services-places-placereport-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-common-ktx:20.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\847fc4b1c363f7e5406c49c100d4c8fd\transformed\firebase-common-ktx-20.2.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-common-ktx:20.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\847fc4b1c363f7e5406c49c100d4c8fd\transformed\firebase-common-ktx-20.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-auth-interop:20.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ee84fca369e501f596ca0db4d683415b\transformed\firebase-auth-interop-20.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-auth-interop:20.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ee84fca369e501f596ca0db4d683415b\transformed\firebase-auth-interop-20.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-datatransport:18.1.7@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\99f99401396d9f55a93853a43da58fc1\transformed\firebase-datatransport-18.1.7\jars\classes.jar"
+      resolved="com.google.firebase:firebase-datatransport:18.1.7"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\99f99401396d9f55a93853a43da58fc1\transformed\firebase-datatransport-18.1.7"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-installations:17.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\63a0c530d09a8d5728d0b4733d2fe136\transformed\firebase-installations-17.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-installations:17.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\63a0c530d09a8d5728d0b4733d2fe136\transformed\firebase-installations-17.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-common:20.3.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-common:20.3.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata-ktx:2.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a7ca5339afeb3330306489f1f11808d7\transformed\lifecycle-livedata-ktx-2.4.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata-ktx:2.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a7ca5339afeb3330306489f1f11808d7\transformed\lifecycle-livedata-ktx-2.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-core-jvm\1.6.4\2c997cd1c0ef33f3e751d3831929aeff1390cb30\kotlinx-coroutines-core-jvm-1.6.4.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.6.4@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-play-services\1.6.4\e8e5e0dbe20eadc35a0eb112bcc1b2089768c906\kotlinx-coroutines-play-services-1.6.4.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.6.4"/>
+  <library
+      name="com.google.android.gms:play-services-cloud-messaging:17.0.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a6a59f42bec866b328635490508833c7\transformed\play-services-cloud-messaging-17.0.1\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-cloud-messaging:17.0.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a6a59f42bec866b328635490508833c7\transformed\play-services-cloud-messaging-17.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-iid-interop:17.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8c2a7a175e7951bd2021cf94d119e736\transformed\firebase-iid-interop-17.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-iid-interop:17.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8c2a7a175e7951bd2021cf94d119e736\transformed\firebase-iid-interop-17.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-installations-interop:17.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c874c7f35ed4dd4247421ff3b72529b0\transformed\firebase-installations-interop-17.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-installations-interop:17.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c874c7f35ed4dd4247421ff3b72529b0\transformed\firebase-installations-interop-17.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-tasks:18.0.2@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2ae27f78fb26f0a49ea758fa1a42bd16\transformed\play-services-tasks-18.0.2\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-tasks:18.0.2"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2ae27f78fb26f0a49ea758fa1a42bd16\transformed\play-services-tasks-18.0.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-stats:17.0.2@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\fb59d3e333d2184dd8463fe76264b831\transformed\play-services-stats-17.0.2\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-stats:17.0.2"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\fb59d3e333d2184dd8463fe76264b831\transformed\play-services-stats-17.0.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-measurement-connector:19.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ad050cbd5abfe22f24ba5d9c4fef5658\transformed\firebase-measurement-connector-19.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-measurement-connector:19.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ad050cbd5abfe22f24ba5d9c4fef5658\transformed\firebase-measurement-connector-19.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-basement:18.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6acc58db3d65417720f91e8d8eda742d\transformed\play-services-basement-18.1.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-basement:18.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6acc58db3d65417720f91e8d8eda742d\transformed\play-services-basement-18.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.viewpager2:viewpager2:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\63eeedfa3a03972430a2b4659741da7a\transformed\viewpager2-1.0.0\jars\classes.jar"
+      resolved="androidx.viewpager2:viewpager2:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\63eeedfa3a03972430a2b4659741da7a\transformed\viewpager2-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.fragment:fragment:1.3.6@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\370be09f115d58a9aeb68ce9dde13c72\transformed\fragment-1.3.6\jars\classes.jar"
+      resolved="androidx.fragment:fragment:1.3.6"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\370be09f115d58a9aeb68ce9dde13c72\transformed\fragment-1.3.6"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.activity:activity:1.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\282f5702867acb1298fff01619bc5d4d\transformed\activity-1.5.1\jars\classes.jar"
+      resolved="androidx.activity:activity:1.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\282f5702867acb1298fff01619bc5d4d\transformed\activity-1.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\37a02184a86244cfc3c7ae47911806b6\transformed\lifecycle-viewmodel-savedstate-2.5.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\37a02184a86244cfc3c7ae47911806b6\transformed\lifecycle-viewmodel-savedstate-2.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-android\1.6.4\f955fc8b2ad196e2f4429598440e15f7492eeb2b\kotlinx-coroutines-android-1.6.4.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.6.21\eeb4d60d75e9ea9c11200d52974e522793b14fba\kotlin-stdlib-jdk8-1.6.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.7.20\2a729aa8763306368e665e2b747abd1dfd29b9d5\kotlin-stdlib-jdk7-1.7.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20"/>
+  <library
+      name="androidx.core:core-ktx:1.8.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f1ab372d15b1cb93296a476e2424d835\transformed\core-ktx-1.8.0\jars\classes.jar"
+      resolved="androidx.core:core-ktx:1.8.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f1ab372d15b1cb93296a476e2424d835\transformed\core-ktx-1.8.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.constraintlayout:constraintlayout:2.1.4@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\496d524c0d542392c5508fd11554182c\transformed\constraintlayout-2.1.4\jars\classes.jar"
+      resolved="androidx.constraintlayout:constraintlayout:2.1.4"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\496d524c0d542392c5508fd11554182c\transformed\constraintlayout-2.1.4"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.github.bumptech.glide:gifdecoder:4.12.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e40ea913637a317f81355ab0aca4f8f4\transformed\gifdecoder-4.12.0\jars\classes.jar"
+      resolved="com.github.bumptech.glide:gifdecoder:4.12.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e40ea913637a317f81355ab0aca4f8f4\transformed\gifdecoder-4.12.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.exifinterface:exifinterface:1.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\73a01675545cb9cddf9555207cdda3c5\transformed\exifinterface-1.2.0\jars\classes.jar"
+      resolved="androidx.exifinterface:exifinterface:1.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\73a01675545cb9cddf9555207cdda3c5\transformed\exifinterface-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.appcompat:appcompat-resources:1.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\73929b146dbe6dd9c1e671b9c81fefd7\transformed\appcompat-resources-1.5.1\jars\classes.jar"
+      resolved="androidx.appcompat:appcompat-resources:1.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\73929b146dbe6dd9c1e671b9c81fefd7\transformed\appcompat-resources-1.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.legacy:legacy-support-core-ui:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c09c4eebf5da1a6db6678d01e825a65e\transformed\legacy-support-core-ui-1.0.0\jars\classes.jar"
+      resolved="androidx.legacy:legacy-support-core-ui:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c09c4eebf5da1a6db6678d01e825a65e\transformed\legacy-support-core-ui-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.drawerlayout:drawerlayout:1.1.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2d96defd3ff9261a3690d3f1af14bec9\transformed\drawerlayout-1.1.1\jars\classes.jar"
+      resolved="androidx.drawerlayout:drawerlayout:1.1.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2d96defd3ff9261a3690d3f1af14bec9\transformed\drawerlayout-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2ec3eaeddd19edfe6b1786aee8465a6c\transformed\coordinatorlayout-1.1.0\jars\classes.jar"
+      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\2ec3eaeddd19edfe6b1786aee8465a6c\transformed\coordinatorlayout-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.dynamicanimation:dynamicanimation:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a8ee16dc5dc4851ed6850d12a720f833\transformed\dynamicanimation-1.0.0\jars\classes.jar"
+      resolved="androidx.dynamicanimation:dynamicanimation:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a8ee16dc5dc4851ed6850d12a720f833\transformed\dynamicanimation-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.recyclerview:recyclerview:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\604cf3d10b7c3ede231eec9589d978b9\transformed\recyclerview-1.1.0\jars\classes.jar"
+      resolved="androidx.recyclerview:recyclerview:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\604cf3d10b7c3ede231eec9589d978b9\transformed\recyclerview-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.transition:transition:1.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8419bfbc44e7a95cb7e0317da1a79a60\transformed\transition-1.2.0\jars\classes.jar"
+      resolved="androidx.transition:transition:1.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8419bfbc44e7a95cb7e0317da1a79a60\transformed\transition-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.vectordrawable:vectordrawable-animated:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\33f21b231478f14263fe3f5f5f88d3bc\transformed\vectordrawable-animated-1.1.0\jars\classes.jar"
+      resolved="androidx.vectordrawable:vectordrawable-animated:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\33f21b231478f14263fe3f5f5f88d3bc\transformed\vectordrawable-animated-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.vectordrawable:vectordrawable:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c52f7fb79dd98ecc5be45294ef35ee3a\transformed\vectordrawable-1.1.0\jars\classes.jar"
+      resolved="androidx.vectordrawable:vectordrawable:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c52f7fb79dd98ecc5be45294ef35ee3a\transformed\vectordrawable-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.media:media:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c6e0b592d95fdb758b4516e34d0eca66\transformed\media-1.0.0\jars\classes.jar"
+      resolved="androidx.media:media:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c6e0b592d95fdb758b4516e34d0eca66\transformed\media-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.legacy:legacy-support-core-utils:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b9d619403907455764e449d4c456cef6\transformed\legacy-support-core-utils-1.0.0\jars\classes.jar"
+      resolved="androidx.legacy:legacy-support-core-utils:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b9d619403907455764e449d4c456cef6\transformed\legacy-support-core-utils-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.viewpager:viewpager:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\20333b2c2705d4fef3c11aa7bb71cd3a\transformed\viewpager-1.0.0\jars\classes.jar"
+      resolved="androidx.viewpager:viewpager:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\20333b2c2705d4fef3c11aa7bb71cd3a\transformed\viewpager-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.loader:loader:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f33bca3caf939aa48855037e1a0f086f\transformed\loader-1.0.0\jars\classes.jar"
+      resolved="androidx.loader:loader:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\f33bca3caf939aa48855037e1a0f086f\transformed\loader-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\97e46338a60d4704c5ce1b19c52cc901\transformed\slidingpanelayout-1.0.0\jars\classes.jar"
+      resolved="androidx.slidingpanelayout:slidingpanelayout:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\97e46338a60d4704c5ce1b19c52cc901\transformed\slidingpanelayout-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.customview:customview:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ba41fee7ba6a31d011b4c1c63ce1621d\transformed\customview-1.1.0\jars\classes.jar"
+      resolved="androidx.customview:customview:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ba41fee7ba6a31d011b4c1c63ce1621d\transformed\customview-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.browser:browser:1.4.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\116be63698beedff03afff21ce6271ab\transformed\browser-1.4.0\jars\classes.jar"
+      resolved="androidx.browser:browser:1.4.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\116be63698beedff03afff21ce6271ab\transformed\browser-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8918964fee987be82f3e020a291cd899\transformed\swiperefreshlayout-1.0.0\jars\classes.jar"
+      resolved="androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8918964fee987be82f3e020a291cd899\transformed\swiperefreshlayout-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b5ec759fabd54735d6cd3162f5f9c8a8\transformed\asynclayoutinflater-1.0.0\jars\classes.jar"
+      resolved="androidx.asynclayoutinflater:asynclayoutinflater:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\b5ec759fabd54735d6cd3162f5f9c8a8\transformed\asynclayoutinflater-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.core:core:1.8.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e64dd9f054a300b4e94fbcbddeb2937e\transformed\core-1.8.0\jars\classes.jar"
+      resolved="androidx.core:core:1.8.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e64dd9f054a300b4e94fbcbddeb2937e\transformed\core-1.8.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.cursoradapter:cursoradapter:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e9f2cd1bc898483d838e21124b4fd1d1\transformed\cursoradapter-1.0.0\jars\classes.jar"
+      resolved="androidx.cursoradapter:cursoradapter:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e9f2cd1bc898483d838e21124b4fd1d1\transformed\cursoradapter-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.savedstate:savedstate:1.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\37604bf160f8d51cc9e268b64b95b354\transformed\savedstate-1.2.0\jars\classes.jar"
+      resolved="androidx.savedstate:savedstate:1.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\37604bf160f8d51cc9e268b64b95b354\transformed\savedstate-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.cardview:cardview:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8af046710e56b3646508182d61200bc0\transformed\cardview-1.0.0\jars\classes.jar"
+      resolved="androidx.cardview:cardview:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8af046710e56b3646508182d61200bc0\transformed\cardview-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-runtime:2.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\9bc94a1afe9355525175dc2cee7917fe\transformed\lifecycle-runtime-2.5.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-runtime:2.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\9bc94a1afe9355525175dc2cee7917fe\transformed\lifecycle-runtime-2.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel:2.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\0bb3af1705af19a5aee9f29c53d5e644\transformed\lifecycle-viewmodel-2.5.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel:2.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\0bb3af1705af19a5aee9f29c53d5e644\transformed\lifecycle-viewmodel-2.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-components:17.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\78dc1a147284aacf7b57ac2871599a10\transformed\firebase-components-17.1.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-components:17.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\78dc1a147284aacf7b57ac2871599a10\transformed\firebase-components-17.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.test:core-ktx:1.4.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\08e3ba12d208cea8146de11ed05138d9\transformed\core-ktx-1.4.0\jars\classes.jar"
+      resolved="androidx.test:core-ktx:1.4.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\08e3ba12d208cea8146de11ed05138d9\transformed\core-ktx-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.test:core:1.4.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\jars\classes.jar"
+      resolved="androidx.test:core:1.4.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata:2.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a04b1cadde72333657ba7164f0256a6b\transformed\lifecycle-livedata-2.4.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata:2.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a04b1cadde72333657ba7164f0256a6b\transformed\lifecycle-livedata-2.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\16cc12bb9512b6471efc88a24997152c\transformed\lifecycle-livedata-core-ktx-2.4.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\16cc12bb9512b6471efc88a24997152c\transformed\lifecycle-livedata-core-ktx-2.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata-core:2.5.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c2fd0609a3d8362b2c241ad5e74feb78\transformed\lifecycle-livedata-core-2.5.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata-core:2.5.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c2fd0609a3d8362b2c241ad5e74feb78\transformed\lifecycle-livedata-core-2.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-common:2.5.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common\2.5.1\1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12\lifecycle-common-2.5.1.jar"
+      resolved="androidx.lifecycle:lifecycle-common:2.5.1"/>
+  <library
+      name="com.google.android.datatransport:transport-backend-cct:3.1.8@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\jars\classes.jar"
+      resolved="com.google.android.datatransport:transport-backend-cct:3.1.8"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.datatransport:transport-runtime:3.1.8@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\jars\classes.jar"
+      resolved="com.google.android.datatransport:transport-runtime:3.1.8"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.datatransport:transport-api:3.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8a0e090a175acff7cd439d0562b150ee\transformed\transport-api-3.0.0\jars\classes.jar"
+      resolved="com.google.android.datatransport:transport-api:3.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\8a0e090a175acff7cd439d0562b150ee\transformed\transport-api-3.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6de5f9fab70a97deab910b2ba35c4549\transformed\versionedparcelable-1.1.1\jars\classes.jar"
+      resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\6de5f9fab70a97deab910b2ba35c4549\transformed\versionedparcelable-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.collection:collection:1.1.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.collection\collection\1.1.0\1f27220b47669781457de0d600849a5de0e89909\collection-1.1.0.jar"
+      resolved="androidx.collection:collection:1.1.0"/>
+  <library
+      name="androidx.interpolator:interpolator:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5f1eed71b0e43179408bd0d5f1497f26\transformed\interpolator-1.0.0\jars\classes.jar"
+      resolved="androidx.interpolator:interpolator:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\5f1eed71b0e43179408bd0d5f1497f26\transformed\interpolator-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.arch.core:core-runtime:2.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\bfd25c01bfc1f727e41e383052342c12\transformed\core-runtime-2.1.0\jars\classes.jar"
+      resolved="androidx.arch.core:core-runtime:2.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\bfd25c01bfc1f727e41e383052342c12\transformed\core-runtime-2.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.arch.core:core-common:2.1.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.1.0\b3152fc64428c9354344bd89848ecddc09b6f07e\core-common-2.1.0.jar"
+      resolved="androidx.arch.core:core-common:2.1.0"/>
+  <library
+      name="androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c6eb62fce3adbe4d60d31e6d06ceeb71\transformed\localbroadcastmanager-1.0.0\jars\classes.jar"
+      resolved="androidx.localbroadcastmanager:localbroadcastmanager:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\c6eb62fce3adbe4d60d31e6d06ceeb71\transformed\localbroadcastmanager-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.concurrent:concurrent-futures:1.1.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.concurrent\concurrent-futures\1.1.0\50b7fb98350d5f42a4e49704b03278542293ba48\concurrent-futures-1.1.0.jar"
+      resolved="androidx.concurrent:concurrent-futures:1.1.0"/>
+  <library
+      name="androidx.documentfile:documentfile:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\9d5439a48300dcefb40a165af5ca011b\transformed\documentfile-1.0.0\jars\classes.jar"
+      resolved="androidx.documentfile:documentfile:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\9d5439a48300dcefb40a165af5ca011b\transformed\documentfile-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.print:print:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4147f206255b3e78080208048089454c\transformed\print-1.0.0\jars\classes.jar"
+      resolved="androidx.print:print:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4147f206255b3e78080208048089454c\transformed\print-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.test:monitor:1.4.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\66be4ea596d2a0b01c81ad82eaeea164\transformed\monitor-1.4.0\jars\classes.jar"
+      resolved="androidx.test:monitor:1.4.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\66be4ea596d2a0b01c81ad82eaeea164\transformed\monitor-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-encoders-json:18.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4497eb7a4ae3cbbecce6d31062fd0090\transformed\firebase-encoders-json-18.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-encoders-json:18.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\4497eb7a4ae3cbbecce6d31062fd0090\transformed\firebase-encoders-json-18.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-encoders-proto:16.0.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-encoders-proto\16.0.0\a42d5fd83b96ae7b73a8617d29c94703e18c9992\firebase-encoders-proto-16.0.0.jar"
+      resolved="com.google.firebase:firebase-encoders-proto:16.0.0"/>
+  <library
+      name="com.google.firebase:firebase-encoders:17.0.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-encoders\17.0.0\26f52dc549c42575b155f8c720e84059ee600a85\firebase-encoders-17.0.0.jar"
+      resolved="com.google.firebase:firebase-encoders:17.0.0"/>
+  <library
+      name="androidx.annotation:annotation:1.5.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.5.0\857678d6b4ca7b28571ef7935c668bdb57e15027\annotation-1.5.0.jar"
+      resolved="androidx.annotation:annotation:1.5.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-parcelize-runtime\1.7.20\1a37fce1de8000ab1f32229cb516628abf6fc0eb\kotlin-parcelize-runtime-1.7.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.7.20@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-android-extensions-runtime\1.7.20\4258071243cf01165f08c0c5a891a720cf8a607a\kotlin-android-extensions-runtime-1.7.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.7.20"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.20@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.7.20\726594ea9ba2beb2ee113647fefa9a10f9fabe52\kotlin-stdlib-1.7.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.20"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.7.20\e15351bdaf9fa06f009be5da7a202e4184f00ae3\kotlin-stdlib-common-1.7.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name="com.github.bumptech.glide:disklrucache:4.12.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.12.0\6d44c9103551e3ff51f00ac26077c143a8fb74f9\disklrucache-4.12.0.jar"
+      resolved="com.github.bumptech.glide:disklrucache:4.12.0"/>
+  <library
+      name="com.github.bumptech.glide:annotations:4.12.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.12.0\298d793db124809d74ad9a90de5eddc408898c84\annotations-4.12.0.jar"
+      resolved="com.github.bumptech.glide:annotations:4.12.0"/>
+  <library
+      name="androidx.annotation:annotation-experimental:1.1.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\96fed3f9cb709b911d3e199c75c656d6\transformed\annotation-experimental-1.1.0\jars\classes.jar"
+      resolved="androidx.annotation:annotation-experimental:1.1.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\96fed3f9cb709b911d3e199c75c656d6\transformed\annotation-experimental-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="io.grpc:grpc-stub:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-stub\1.52.1\16726293bd4430fab8deb37b1ea2ddf8e69b85de\grpc-stub-1.52.1.jar"
+      resolved="io.grpc:grpc-stub:1.52.1"/>
+  <library
+      name="com.google.guava:guava:31.1-android@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-android\9222c47cc3ae890f07f7c961bbb3cb69050fe4aa\guava-31.1-android.jar"
+      resolved="com.google.guava:guava:31.1-android"/>
+  <library
+      name="com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+      resolved="com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"/>
+  <library
+      name="org.mapsforge:mapsforge-map-android:0.11.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map-android\0.11.0\62c9b563d984b27a7a5467cf3d8eacc02018cc37\mapsforge-map-android-0.11.0.jar"
+      resolved="org.mapsforge:mapsforge-map-android:0.11.0"/>
+  <library
+      name="org.mapsforge:mapsforge-map-reader:0.11.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map-reader\0.11.0\d0999ba706f1cbbd8b961aecc07ed6c35e9a77bf\mapsforge-map-reader-0.11.0.jar"
+      resolved="org.mapsforge:mapsforge-map-reader:0.11.0"/>
+  <library
+      name="org.mapsforge:mapsforge-themes:0.11.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-themes\0.11.0\22f672092e0565aa2b82a6945bd11aefcc2041f8\mapsforge-themes-0.11.0.jar"
+      resolved="org.mapsforge:mapsforge-themes:0.11.0"/>
+  <library
+      name="org.mapsforge:mapsforge-map:0.11.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map\0.11.0\3652e85f1361452807b241c21d06bf6177f97f11\mapsforge-map-0.11.0.jar"
+      resolved="org.mapsforge:mapsforge-map:0.11.0"/>
+  <library
+      name="org.mapsforge:mapsforge-core:0.11.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-core\0.11.0\8b8b1595cd5fe7c67f8a7509e94114af11891a59\mapsforge-core-0.11.0.jar"
+      resolved="org.mapsforge:mapsforge-core:0.11.0"/>
+  <library
+      name="net.sf.kxml:kxml2:2.3.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\net.sf.kxml\kxml2\2.3.0\ccbc77a5fd907ef863c29f3596c6f54ffa4e9442\kxml2-2.3.0.jar"
+      resolved="net.sf.kxml:kxml2:2.3.0"/>
+  <library
+      name="com.caverock:androidsvg:1.3@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.caverock\androidsvg\1.3\49b76a8c868a4a8674872fb3165bfbb6e662e6cb\androidsvg-1.3.jar"
+      resolved="com.caverock:androidsvg:1.3"/>
+  <library
+      name="com.google.firebase:firebase-annotations:16.2.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-annotations\16.2.0\ba0806703ca285d03fa9c888b5868f101134a501\firebase-annotations-16.2.0.jar"
+      resolved="com.google.firebase:firebase-annotations:16.2.0"/>
+  <library
+      name="javax.inject:javax.inject:1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+      resolved="javax.inject:javax.inject:1"/>
+  <library
+      name="io.grpc:grpc-protobuf-lite:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-protobuf-lite\1.52.1\e50372c825b3b60a9c1c83895a8ac2209578260b\grpc-protobuf-lite-1.52.1.jar"
+      resolved="io.grpc:grpc-protobuf-lite:1.52.1"/>
+  <library
+      name="io.grpc:grpc-okhttp:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-okhttp\1.52.1\aeef45c692943d6e5b5d6267dc826f3cec770437\grpc-okhttp-1.52.1.jar"
+      resolved="io.grpc:grpc-okhttp:1.52.1"/>
+  <library
+      name="io.grpc:grpc-android:1.52.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ee8e3a4bf5e6e09b3da836d842c27f33\transformed\grpc-android-1.52.1\jars\classes.jar"
+      resolved="io.grpc:grpc-android:1.52.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\ee8e3a4bf5e6e09b3da836d842c27f33\transformed\grpc-android-1.52.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="io.grpc:grpc-core:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-core\1.52.1\c80b4701b0bef206b7208f4d3d941b21b527a311\grpc-core-1.52.1.jar"
+      resolved="io.grpc:grpc-core:1.52.1"/>
+  <library
+      name="io.grpc:grpc-api:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-api\1.52.1\250130924e11e3a0dfb5f508130940a1729d497c\grpc-api-1.52.1.jar"
+      resolved="io.grpc:grpc-api:1.52.1"/>
+  <library
+      name="com.google.errorprone:error_prone_annotations:2.14.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.14.0\9f01b3654d3c536859705f09f8d267ee977b4004\error_prone_annotations-2.14.0.jar"
+      resolved="com.google.errorprone:error_prone_annotations:2.14.0"/>
+  <library
+      name="com.google.firebase:protolite-well-known-types:18.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a543bde8e04c54987e8fa93283e94324\transformed\protolite-well-known-types-18.0.0\jars\classes.jar"
+      resolved="com.google.firebase:protolite-well-known-types:18.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\a543bde8e04c54987e8fa93283e94324\transformed\protolite-well-known-types-18.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.protobuf:protobuf-javalite:3.21.7@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-javalite\3.21.7\82b692be08383107fd1c6d44474b56df411edd27\protobuf-javalite-3.21.7.jar"
+      resolved="com.google.protobuf:protobuf-javalite:3.21.7"/>
+  <library
+      name="io.grpc:grpc-context:1.52.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-context\1.52.1\4da95b74359b2dfdd5d85eee3b4682a3e720261c\grpc-context-1.52.1.jar"
+      resolved="io.grpc:grpc-context:1.52.1"/>
+  <library
+      name="com.google.code.findbugs:jsr305:3.0.2@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar"
+      resolved="com.google.code.findbugs:jsr305:3.0.2"/>
+  <library
+      name="com.google.guava:failureaccess:1.0.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar"
+      resolved="com.google.guava:failureaccess:1.0.1"/>
+  <library
+      name="org.checkerframework:checker-qual:3.12.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar"
+      resolved="org.checkerframework:checker-qual:3.12.0"/>
+  <library
+      name="com.google.j2objc:j2objc-annotations:1.3@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar"
+      resolved="com.google.j2objc:j2objc-annotations:1.3"/>
+  <library
+      name="com.google.code.gson:gson:2.9.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.9.0\8a1167e089096758b49f9b34066ef98b2f4b37aa\gson-2.9.0.jar"
+      resolved="com.google.code.gson:gson:2.9.0"/>
+  <library
+      name="com.android.volley:volley:1.2.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\91194f0f70ca139e68d3e43aba1920b1\transformed\volley-1.2.1\jars\classes.jar"
+      resolved="com.android.volley:volley:1.2.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\91194f0f70ca139e68d3e43aba1920b1\transformed\volley-1.2.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.auto.value:auto-value-annotations:1.6.2@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.auto.value\auto-value-annotations\1.6.2\ed193d86e0af90cc2342aedbe73c5d86b03fa09b\auto-value-annotations-1.6.2.jar"
+      resolved="com.google.auto.value:auto-value-annotations:1.6.2"/>
+  <library
+      name="androidx.emoji2:emoji2-views-helper:1.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\28f6c815f7ecf391c67cce93d46eba8e\transformed\emoji2-views-helper-1.2.0\jars\classes.jar"
+      resolved="androidx.emoji2:emoji2-views-helper:1.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\28f6c815f7ecf391c67cce93d46eba8e\transformed\emoji2-views-helper-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.emoji2:emoji2:1.2.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\jars\classes.jar;C:\Users\Guru Kiran\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\jars\libs\repackaged.jar"
+      resolved="androidx.emoji2:emoji2:1.2.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-process:2.4.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\eeaaf02ab9884fe160236c35ce9e949d\transformed\lifecycle-process-2.4.1\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-process:2.4.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\eeaaf02ab9884fe160236c35ce9e949d\transformed\lifecycle-process-2.4.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.resourceinspection:resourceinspection-annotation:1.0.1@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.resourceinspection\resourceinspection-annotation\1.0.1\8c21f8ff5d96d5d52c948707f7e4d6ca6773feef\resourceinspection-annotation-1.0.1.jar"
+      resolved="androidx.resourceinspection:resourceinspection-annotation:1.0.1"/>
+  <library
+      name="androidx.startup:startup-runtime:1.1.1@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\1fd89987cd8978092725b0129f8fae86\transformed\startup-runtime-1.1.1\jars\classes.jar"
+      resolved="androidx.startup:startup-runtime:1.1.1"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\1fd89987cd8978092725b0129f8fae86\transformed\startup-runtime-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.tracing:tracing:1.0.0@aar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\transforms-3\44c9b89c3134bd8d2adbf449394829c2\transformed\tracing-1.0.0\jars\classes.jar"
+      resolved="androidx.tracing:tracing:1.0.0"
+      folder="C:\Users\Guru Kiran\.gradle\caches\transforms-3\44c9b89c3134bd8d2adbf449394829c2\transformed\tracing-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.constraintlayout:constraintlayout-core:1.0.4@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\androidx.constraintlayout\constraintlayout-core\1.0.4\29cdbe03ded6b0980f63fa5da2579a430e911c40\constraintlayout-core-1.0.4.jar"
+      resolved="androidx.constraintlayout:constraintlayout-core:1.0.4"/>
+  <library
+      name="com.squareup.okio:okio:1.17.5@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.17.5\34336f82f14dde1c0752fd5f0546dbf3c3225aba\okio-1.17.5.jar"
+      resolved="com.squareup.okio:okio:1.17.5"/>
+  <library
+      name="io.perfmark:perfmark-api:0.25.0@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\io.perfmark\perfmark-api\0.25.0\340a0c3d81cdcd9ecd7dc2ae00fb2633b469b157\perfmark-api-0.25.0.jar"
+      resolved="io.perfmark:perfmark-api:0.25.0"/>
+  <library
+      name="com.google.android:annotations:4.1.1.4@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\com.google.android\annotations\4.1.1.4\a1678ba907bf92691d879fef34e1a187038f9259\annotations-4.1.1.4.jar"
+      resolved="com.google.android:annotations:4.1.1.4"/>
+  <library
+      name="org.codehaus.mojo:animal-sniffer-annotations:1.21@jar"
+      jars="C:\Users\Guru Kiran\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.21\419a9acd297cb6fe6f91b982d909f2c20e9fa5c0\animal-sniffer-annotations-1.21.jar"
+      resolved="org.codehaus.mojo:animal-sniffer-annotations:1.21"/>
+</libraries>

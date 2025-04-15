@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonTheme">
+        <item name="colorButtonNormal">@color/yellow_200</item>
+    </style>
+</resources>

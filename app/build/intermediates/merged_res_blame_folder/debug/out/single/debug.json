@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_slider1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/slider1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_rc_claimed.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_rc_claimed.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img1.jpg.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img1.jpg"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_outline_chevron_right_50.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/outline_chevron_right_50.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesthinitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesthinitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_outline_chevron_right_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/outline_chevron_right_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_mercy_04.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/mercy_04.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_first.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_slider1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/slider1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_outline_chevron_right_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/outline_chevron_right_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_custom_spinner_dialog.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/custom_spinner_dialog.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_no_connection.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/no_connection.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_outline_delete_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/outline_delete_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_bg.jpg.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/bg.jpg"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_example.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_example.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesextrabolditalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesextrabolditalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_slider1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/slider1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_outline_delete_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/outline_delete_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_slider.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_slider.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_slider2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/slider2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_no_connection.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/no_connection.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_update_employee.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_update_employee.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_ic_rloginpage_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/ic_rloginpage_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_no_connection.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/no_connection.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_menu_item_background.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/menu_item_background.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_no_connection.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/no_connection.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_outline_chevron_right_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/outline_chevron_right_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.kamui.fooddonation.app-pngs-39:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_ngo_details.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_ngo_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_ngo_cardview.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/ngo_cardview.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatessemibolditalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatessemibolditalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_no_internet_layout.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/no_internet_layout.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img3.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img3.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/raw_app_logo.mp4.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/raw/app_logo.mp4"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_outline_delete_24.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/outline_delete_24.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_ngo_list.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/ngo_list.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_round_image.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/round_image.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_slider2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/slider2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_track.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_track.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternateslight.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternateslight.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_account_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/account_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_mobile_login_bro.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/mobile_login_bro.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_ic_location.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_admin_donation.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_admin_donation.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_slider2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/slider2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_ahome_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_ahome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesextrabold.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesextrabold.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_childimg.jpg.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/childimg.jpg"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/raw_app_logo2.mp4.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/raw/app_logo2.mp4"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/color_button_text_color.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/color/button_text_color.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_r_request.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_r_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_ic_rewards.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/ic_rewards.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_mercy_04.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/mercy_04.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_ic_rewards.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/ic_rewards.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_mobile_login_bro.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/mobile_login_bro.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_ic_rewards.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/ic_rewards.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_no_connection.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/no_connection.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesextralightitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesextralightitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_outline_delete_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/outline_delete_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_ic_rewards.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/ic_rewards.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_mobile_login_bro.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/mobile_login_bro.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_history_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/history_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img_4.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_dialog_progress.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_splash.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesbold.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesbold.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_v_home_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_v_home_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_mercy_04.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/mercy_04.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_second.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img_1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_mobile_login_bro.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/mobile_login_bro.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratbold.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratbold.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_mercy_04.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/mercy_04.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_outline_chevron_right_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/outline_chevron_right_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_ic_rloginpage_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/ic_rloginpage_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_list_item.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_vol_fragment_home.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/vol_fragment_home.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesthin.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesthin.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_slider1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/slider1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_ic_onboard_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/ic_onboard_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_res_home_page.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/res_home_page.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/menu_receiver_menu.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/menu/receiver_menu.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_ic_onboard_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/ic_onboard_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_no_internet_image.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/no_internet_image.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_third.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_third.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_ic_onboard_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/ic_onboard_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternateslightitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternateslightitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_button_shape.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/button_shape.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_res_home_page.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/res_home_page.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_splash_screen.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/splash_screen.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_ic_onboard_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/ic_onboard_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_outline_delete_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/outline_delete_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/menu_volunteer_home_menu.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/menu/volunteer_home_menu.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_record.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_record.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img_2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_signin.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_restaurant_cardview.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/restaurant_cardview.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_dialog_map.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/dialog_map.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_ic_hamburger.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/ic_hamburger.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_borders.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/borders.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_slider2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/slider2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/raw_tag.mp4.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/raw/tag.mp4"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_button_bg.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesbolditalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesbolditalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesblackitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesblackitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_employee_list.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/employee_list.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_rhome_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_rhome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_mobile_login_bro.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/mobile_login_bro.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_nhome_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_nhome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatessemibold.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatessemibold.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_ic_rloginpage_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/ic_rloginpage_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_nav_header.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_signup.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_ic_rewards.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/ic_rewards.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratregular.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratregular.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img_3.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesmedium.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesmedium.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_ic_rloginpage_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/ic_rloginpage_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_my_spinner_item_layout.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/my_spinner_item_layout.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesmediumitalic.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesmediumitalic.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_mercy_04.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/mercy_04.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_res_home_page.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/res_home_page.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/menu_ngo_menu.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/menu/ngo_menu.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_add_restaurant.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_add_restaurant.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_ngo_request_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/ngo_request_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesblack.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesblack.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_ic_rloginpage_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/ic_rloginpage_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_splash_screen.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/splash_screen.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_ic_hamburger.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/ic_hamburger.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesextralight.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesextralight.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_calendar_dropdown_item.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/calendar_dropdown_item.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_add_employee.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_add_employee.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_my_popup.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/my_popup.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_ic_hamburger.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/ic_hamburger.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_radd_request.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_radd_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_splash_screen.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/splash_screen.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_splash_screen.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/splash_screen.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_res_home_page.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/res_home_page.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_history_child_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/history_child_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_ic_hamburger.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/ic_hamburger.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_restaurants_details.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_restaurants_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_outline_chevron_right_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/outline_chevron_right_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_home_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_rchome_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_rchome_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/font_montserratalternatesregular.ttf.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/font/montserratalternatesregular.ttf"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_onboarding_screen.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_onboarding_screen.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_admin_donation.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_admin_donation.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_edit_profile.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/raw_app_logo3.mp4.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/raw/app_logo3.mp4"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxhdpi_ic_hamburger.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxhdpi/ic_hamburger.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_my_request_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/my_request_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_outline_chevron_right_24.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/outline_chevron_right_24.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xhdpi_outline_delete_black_48.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xhdpi/outline_delete_black_48.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_action_bar_title.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/action_bar_title.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_donation_details.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_donation_details.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img2.jpg.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img2.jpg"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_ic_onboard_background.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/ic_onboard_background.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-hdpi_res_home_page.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-hdpi/res_home_page.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-xxxhdpi_slider1.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-xxxhdpi/slider1.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_ngo_request.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_ngo_request.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_fragment_rc_home.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/fragment_rc_home.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable_img.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable/img.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_slider2.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/slider2.png"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_activity_login_page.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/layout_employee_fragment.xml.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/layout/employee_fragment.xml"
+    },
+    {
+        "merged": "com.kamui.fooddonation.app-merged_res-44:/drawable-mdpi_splash_screen.png.flat",
+        "source": "com.kamui.fooddonation.app-main-46:/drawable-mdpi/splash_screen.png"
+    }
+]

@@ -1,0 +1,875 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kamui.kindnest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:5:5-81
+13-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:9:5-67
+15-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:10:5-79
+16-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:10:22-76
+17
+18    <permission
+18-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:11:5-12:47
+19        android:name="com.kamui.fooddonation.permission.C2D_MESSAGE"
+19-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:11:17-77
+20        android:protectionLevel="signature" />
+20-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:12:9-44
+21
+22    <uses-permission android:name="com.kamui.fooddonation.permission.C2D_MESSAGE" />
+22-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:13:5-85
+22-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:13:22-82
+23
+24    <supports-screens
+24-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:11:5-14:40
+25        android:anyDensity="true"
+25-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:12:9-34
+26        android:largeScreens="true"
+26-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:13:9-36
+27        android:normalScreens="true" />
+27-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:14:9-37
+28
+29    <uses-feature
+29-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:16:5-18:36
+30        android:name="android.hardware.location.network"
+30-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:17:9-57
+31        android:required="false" />
+31-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:18:9-33
+32    <uses-feature
+32-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:19:5-21:36
+33        android:name="android.hardware.location.gps"
+33-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:20:9-53
+34        android:required="false" />
+34-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:21:9-33
+35    <uses-feature
+35-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:22:5-24:36
+36        android:name="android.hardware.telephony"
+36-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:23:9-50
+37        android:required="false" />
+37-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:24:9-33
+38    <uses-feature
+38-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:25:5-27:36
+39        android:name="android.hardware.wifi"
+39-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:26:9-45
+40        android:required="false" />
+40-->[org.osmdroid:osmdroid-android:6.1.10] C:\Users\roydo\.gradle\caches\transforms-3\71c11dbdf48f5ac25de61008cb3928ef\transformed\osmdroid-android-6.1.10\AndroidManifest.xml:27:9-33
+41
+42    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+42-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:10:5-76
+42-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:10:22-73
+43    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+43-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:25:5-77
+43-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:25:22-74
+44    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+44-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:26:5-68
+44-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:26:22-65
+45    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+45-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:28:5-82
+45-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:28:22-79
+46
+47    <uses-feature
+47-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+48        android:glEsVersion="0x00020000"
+48-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+49        android:required="true" />
+49-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+50
+51    <uses-permission android:name="android.permission.REORDER_TASKS" />
+51-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:24:5-72
+51-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:24:22-69
+52
+53    <application
+53-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:15:5-249:19
+54        android:allowBackup="true"
+54-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:16:9-35
+55        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+55-->[androidx.core:core:1.8.0] C:\Users\roydo\.gradle\caches\transforms-3\e64dd9f054a300b4e94fbcbddeb2937e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+56        android:dataExtractionRules="@xml/data_extraction_rules"
+56-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:17:9-65
+57        android:debuggable="true"
+58        android:fullBackupContent="@xml/backup_rules"
+58-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:18:9-54
+59        android:icon="@mipmap/ic_launcher"
+59-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:19:9-43
+60        android:label="@string/app_name"
+60-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:20:9-41
+61        android:roundIcon="@mipmap/ic_launcher_round"
+61-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:21:9-54
+62        android:supportsRtl="true"
+62-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:22:9-35
+63        android:testOnly="true"
+64        android:theme="@style/Theme.KamuiFoodDonationApp" >
+64-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:23:9-58
+65        <receiver
+65-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:26:9-34:20
+66            android:name="com.kamui.fooddonation.NetworkChangeReceiver"
+66-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:27:13-50
+67            android:enabled="true"
+67-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:28:13-35
+68            android:exported="false" >
+68-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:29:13-37
+69            <intent-filter>
+69-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:30:13-33:29
+70                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+70-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:31:17-32:50
+70-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:31:25-76
+71            </intent-filter>
+72        </receiver>
+73
+74        <!--
+75     Set custom default icon. This is used when no icon is set for incoming notification messages.
+76     See README(https://goo.gl/l4GJaQ) for more.
+77        -->
+78        <meta-data
+78-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:38:9-40:58
+79            android:name="com.google.firebase.messaging.default_notification_icon"
+79-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:39:13-83
+80            android:resource="@drawable/splash_screen" />
+80-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:40:13-55
+81        <!--
+82             Set color used with incoming notification messages. This is used when no color is set for the incoming
+83             notification message. See README(https://goo.gl/6BKBk7) for more.
+84        -->
+85        <meta-data
+85-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:43:9-45:53
+86            android:name="com.google.firebase.messaging.default_notification_color"
+86-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:44:13-84
+87            android:resource="@color/colorAccent" />
+87-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:45:13-50
+88
+89        <service
+89-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:47:9-52:19
+90            android:name="com.kamui.fooddonation.MyFirebaseMessagingService"
+90-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:47:18-60
+91            android:exported="false" >
+91-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:48:13-37
+92            <intent-filter>
+92-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:49:13-51:29
+93                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+93-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:50:17-78
+93-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:50:25-75
+94            </intent-filter>
+95        </service>
+96
+97        <activity
+97-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:54:9-56:40
+98            android:name="com.kamui.fooddonation.EditProfile"
+98-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:55:13-40
+99            android:exported="false" />
+99-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:56:13-37
+100        <activity
+100-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:57:9-59:40
+101            android:name="com.kamui.fooddonation.admin.AdminDonationActivity"
+101-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:58:13-56
+102            android:exported="false" />
+102-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:59:13-37
+103        <activity
+103-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:60:9-62:40
+104            android:name="com.kamui.fooddonation.BaseActivity"
+104-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:61:13-41
+105            android:exported="false" />
+105-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:62:13-37
+106        <activity
+106-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:63:9-65:40
+107            android:name="com.kamui.fooddonation.ngo.DonationDetails"
+107-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:64:13-48
+108            android:exported="false" />
+108-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:65:13-37
+109        <activity
+109-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:66:9-72:20
+110            android:name="com.kamui.fooddonation.receiver.RcHomePage"
+110-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:67:13-48
+111            android:exported="false" >
+111-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:68:13-37
+112            <meta-data
+112-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+113                android:name="android.app.lib_name"
+113-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+114                android:value="" />
+114-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+115        </activity>
+116        <activity
+116-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:73:9-79:20
+117            android:name="com.kamui.fooddonation.volunteer.VHomePage"
+117-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:74:13-48
+118            android:exported="false" >
+118-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:75:13-37
+119            <meta-data
+119-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+120                android:name="android.app.lib_name"
+120-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+121                android:value="" />
+121-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+122        </activity>
+123        <activity
+123-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:80:9-86:20
+124            android:name="com.kamui.fooddonation.ngo.UpdateEmployee"
+124-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:81:13-47
+125            android:exported="false" >
+125-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:82:13-37
+126            <meta-data
+126-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+127                android:name="android.app.lib_name"
+127-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+128                android:value="" />
+128-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+129        </activity>
+130        <activity
+130-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:87:9-93:20
+131            android:name="com.kamui.fooddonation.ngo.AddEmployee"
+131-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:88:13-44
+132            android:exported="false" >
+132-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:89:13-37
+133            <meta-data
+133-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+134                android:name="android.app.lib_name"
+134-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+135                android:value="" />
+135-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+136        </activity>
+137        <activity
+137-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:94:9-100:20
+138            android:name="com.kamui.fooddonation.admin.AddRestaurant"
+138-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:95:13-48
+139            android:exported="false" >
+139-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:96:13-37
+140            <meta-data
+140-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+141                android:name="android.app.lib_name"
+141-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+142                android:value="" />
+142-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+143        </activity>
+144        <activity
+144-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:101:9-107:20
+145            android:name="com.kamui.fooddonation.admin.AddNgo"
+145-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:102:13-41
+146            android:exported="false" >
+146-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:103:13-37
+147            <meta-data
+147-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+148                android:name="android.app.lib_name"
+148-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+149                android:value="" />
+149-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+150        </activity>
+151        <activity
+151-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:108:9-114:20
+152            android:name="com.kamui.fooddonation.admin.NgoDetails"
+152-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:109:13-45
+153            android:exported="false" >
+153-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:110:13-37
+154            <meta-data
+154-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+155                android:name="android.app.lib_name"
+155-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+156                android:value="" />
+156-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+157        </activity>
+158        <activity
+158-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:115:9-121:20
+159            android:name="com.kamui.fooddonation.admin.RestaurantsDetails"
+159-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:116:13-53
+160            android:exported="false" >
+160-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:117:13-37
+161            <meta-data
+161-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+162                android:name="android.app.lib_name"
+162-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+163                android:value="" />
+163-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+164        </activity>
+165        <activity
+165-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:122:9-128:20
+166            android:name="com.kamui.fooddonation.restaurant.RAddRequest"
+166-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:123:13-51
+167            android:exported="false" >
+167-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:124:13-37
+168            <meta-data
+168-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+169                android:name="android.app.lib_name"
+169-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+170                android:value="" />
+170-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+171        </activity>
+172        <activity
+172-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:129:9-135:20
+173            android:name="com.kamui.fooddonation.Example"
+173-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:130:13-36
+174            android:exported="false" >
+174-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:131:13-37
+175            <meta-data
+175-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+176                android:name="android.app.lib_name"
+176-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+177                android:value="" />
+177-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+178        </activity>
+179        <activity
+179-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:136:9-142:20
+180            android:name="com.kamui.fooddonation.admin.AHomePage"
+180-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:137:13-44
+181            android:exported="false" >
+181-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:138:13-37
+182            <meta-data
+182-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+183                android:name="android.app.lib_name"
+183-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+184                android:value="" />
+184-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+185        </activity>
+186        <activity
+186-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:143:9-149:20
+187            android:name="com.kamui.fooddonation.ngo.NHomePage"
+187-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:144:13-42
+188            android:exported="false" >
+188-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:145:13-37
+189            <meta-data
+189-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+190                android:name="android.app.lib_name"
+190-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+191                android:value="" />
+191-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+192        </activity>
+193        <activity
+193-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:150:9-156:20
+194            android:name="com.kamui.fooddonation.restaurant.RHomePage"
+194-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:151:13-49
+195            android:exported="false" >
+195-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:152:13-37
+196            <meta-data
+196-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+197                android:name="android.app.lib_name"
+197-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+198                android:value="" />
+198-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+199        </activity>
+200        <activity
+200-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:157:9-163:20
+201            android:name="com.kamui.fooddonation.SignInActivity"
+201-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:158:13-43
+202            android:exported="false" >
+202-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:159:13-37
+203            <meta-data
+203-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+204                android:name="android.app.lib_name"
+204-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+205                android:value="" />
+205-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+206        </activity>
+207        <activity
+207-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:164:9-171:20
+208            android:name="com.kamui.fooddonation.SignupActivity"
+208-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:165:13-43
+209            android:exported="false"
+209-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:166:13-37
+210            android:theme="@style/AppTheme.signupScreen" >
+210-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:167:13-57
+211            <meta-data
+211-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+212                android:name="android.app.lib_name"
+212-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+213                android:value="" />
+213-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+214        </activity>
+215        <activity
+215-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:172:9-179:20
+216            android:name="com.kamui.fooddonation.volunteer.VLoginPage"
+216-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:173:13-49
+217            android:exported="false"
+217-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:174:13-37
+218            android:theme="@style/AppTheme.loginScreen" >
+218-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:175:13-56
+219            <meta-data
+219-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+220                android:name="android.app.lib_name"
+220-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+221                android:value="" />
+221-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+222        </activity>
+223        <activity
+223-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:180:9-187:20
+224            android:name="com.kamui.fooddonation.receiver.RcLoginPage"
+224-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:181:13-49
+225            android:exported="false"
+225-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:182:13-37
+226            android:theme="@style/AppTheme.loginScreen" >
+226-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:183:13-56
+227            <meta-data
+227-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+228                android:name="android.app.lib_name"
+228-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+229                android:value="" />
+229-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+230        </activity>
+231        <activity
+231-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:188:9-195:20
+232            android:name="com.kamui.fooddonation.admin.ALoginPage"
+232-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:189:13-45
+233            android:exported="false"
+233-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:190:13-37
+234            android:theme="@style/AppTheme.loginScreen" >
+234-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:191:13-56
+235            <meta-data
+235-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+236                android:name="android.app.lib_name"
+236-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+237                android:value="" />
+237-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+238        </activity>
+239        <activity
+239-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:196:9-203:20
+240            android:name="com.kamui.fooddonation.ngo.NLoginPage"
+240-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:197:13-43
+241            android:exported="false"
+241-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:198:13-37
+242            android:theme="@style/AppTheme.loginScreen" >
+242-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:199:13-56
+243            <meta-data
+243-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+244                android:name="android.app.lib_name"
+244-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+245                android:value="" />
+245-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+246        </activity>
+247        <activity
+247-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:204:9-211:20
+248            android:name="com.kamui.fooddonation.restaurant.RloginPage"
+248-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:205:13-50
+249            android:exported="false"
+249-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:206:13-37
+250            android:theme="@style/AppTheme.loginScreen" >
+250-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:207:13-56
+251            <meta-data
+251-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+252                android:name="android.app.lib_name"
+252-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+253                android:value="" />
+253-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+254        </activity>
+255        <activity
+255-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:212:9-219:20
+256            android:name="com.kamui.fooddonation.OnboardScreen"
+256-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:213:13-42
+257            android:exported="false"
+257-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:214:13-37
+258            android:theme="@style/AppTheme.OnboardScreen" >
+258-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:215:13-58
+259            <meta-data
+259-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+260                android:name="android.app.lib_name"
+260-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+261                android:value="" />
+261-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+262        </activity>
+263        <activity
+263-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:220:9-227:20
+264            android:name="com.kamui.fooddonation.slider.SliderActivity"
+264-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:221:13-50
+265            android:exported="false"
+265-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:222:13-37
+266            android:theme="@style/AppTheme.sliderScreen" >
+266-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:223:13-57
+267            <meta-data
+267-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+268                android:name="android.app.lib_name"
+268-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+269                android:value="" />
+269-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+270        </activity>
+271        <activity
+271-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:228:9-241:20
+272            android:name="com.kamui.fooddonation.SplashActivity"
+272-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:229:13-43
+273            android:exported="true"
+273-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:230:13-36
+274            android:theme="@style/AppTheme.SplashScreen" >
+274-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:231:13-57
+275            <intent-filter>
+275-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:232:13-236:29
+276                <action android:name="android.intent.action.MAIN" />
+276-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:17-69
+276-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:25-66
+277
+278                <category android:name="android.intent.category.LAUNCHER" />
+278-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:235:17-77
+278-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:235:27-74
+279            </intent-filter>
+280
+281            <meta-data
+281-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+282                android:name="android.app.lib_name"
+282-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+283                android:value="" />
+283-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+284        </activity>
+285        <activity
+285-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:242:9-248:20
+286            android:name="com.kamui.fooddonation.MainActivity"
+286-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:243:13-41
+287            android:exported="true" >
+287-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:244:13-36
+288            <meta-data
+288-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:69:13-71:36
+289                android:name="android.app.lib_name"
+289-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:70:17-52
+290                android:value="" />
+290-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:71:17-33
+291        </activity>
+292        <activity
+292-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:14:9-20:20
+293            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+293-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:15:13-91
+294            android:exported="false"
+294-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:16:13-37
+295            android:label="@string/places_autocomplete_label"
+295-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:17:13-62
+296            android:theme="@style/PlacesAutocompleteOverlay"
+296-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:18:13-61
+297            android:windowSoftInputMode="adjustResize" >
+297-->[com.google.android.libraries.places:places:2.5.0] C:\Users\roydo\.gradle\caches\transforms-3\5e71d394447072f919f02cf05abd5ea3\transformed\places-2.5.0\AndroidManifest.xml:19:13-55
+298        </activity>
+299
+300        <service
+300-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:12:9-18:19
+301            android:name="com.google.firebase.components.ComponentDiscoveryService"
+301-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:13:13-84
+302            android:directBootAware="true"
+302-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:34:13-43
+303            android:exported="false" >
+303-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:14:13-37
+304            <meta-data
+304-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:15:13-17:85
+305                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+305-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:16:17-124
+306                android:value="com.google.firebase.components.ComponentRegistrar" />
+306-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\ddb8439262a1a33328d6543950237b54\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:17:17-82
+307            <meta-data
+307-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\3ca1e8cee748df8225c9a0d850d17e5a\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:11:13-13:85
+308                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+308-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\3ca1e8cee748df8225c9a0d850d17e5a\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:12:17-116
+309                android:value="com.google.firebase.components.ComponentRegistrar" />
+309-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\3ca1e8cee748df8225c9a0d850d17e5a\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:13:17-82
+310            <meta-data
+310-->[com.google.firebase:firebase-firestore-ktx:24.4.1] C:\Users\roydo\.gradle\caches\transforms-3\f653dba6e549e727d72aa64345427e68\transformed\firebase-firestore-ktx-24.4.1\AndroidManifest.xml:14:13-16:85
+311                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar"
+311-->[com.google.firebase:firebase-firestore-ktx:24.4.1] C:\Users\roydo\.gradle\caches\transforms-3\f653dba6e549e727d72aa64345427e68\transformed\firebase-firestore-ktx-24.4.1\AndroidManifest.xml:15:17-126
+312                android:value="com.google.firebase.components.ComponentRegistrar" />
+312-->[com.google.firebase:firebase-firestore-ktx:24.4.1] C:\Users\roydo\.gradle\caches\transforms-3\f653dba6e549e727d72aa64345427e68\transformed\firebase-firestore-ktx-24.4.1\AndroidManifest.xml:16:17-82
+313            <meta-data
+313-->[com.google.firebase:firebase-messaging-ktx:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\5ab39c7fa7c93854827e57378694ab74\transformed\firebase-messaging-ktx-23.1.0\AndroidManifest.xml:28:13-30:85
+314                android:name="com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingKtxRegistrar"
+314-->[com.google.firebase:firebase-messaging-ktx:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\5ab39c7fa7c93854827e57378694ab74\transformed\firebase-messaging-ktx-23.1.0\AndroidManifest.xml:29:17-126
+315                android:value="com.google.firebase.components.ComponentRegistrar" />
+315-->[com.google.firebase:firebase-messaging-ktx:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\5ab39c7fa7c93854827e57378694ab74\transformed\firebase-messaging-ktx-23.1.0\AndroidManifest.xml:30:17-82
+316            <meta-data
+316-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\roydo\.gradle\caches\transforms-3\847fc4b1c363f7e5406c49c100d4c8fd\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+317                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+317-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\roydo\.gradle\caches\transforms-3\847fc4b1c363f7e5406c49c100d4c8fd\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
+318                android:value="com.google.firebase.components.ComponentRegistrar" />
+318-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\roydo\.gradle\caches\transforms-3\847fc4b1c363f7e5406c49c100d4c8fd\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+319            <meta-data
+319-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+320                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+320-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+321                android:value="com.google.firebase.components.ComponentRegistrar" />
+321-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+322            <meta-data
+322-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\roydo\.gradle\caches\transforms-3\4fd8fdf50b0354d0cee6bccd9d20ea3d\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:19:13-21:85
+323                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+323-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\roydo\.gradle\caches\transforms-3\4fd8fdf50b0354d0cee6bccd9d20ea3d\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:20:17-111
+324                android:value="com.google.firebase.components.ComponentRegistrar" />
+324-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\roydo\.gradle\caches\transforms-3\4fd8fdf50b0354d0cee6bccd9d20ea3d\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:21:17-82
+325            <meta-data
+325-->[com.google.firebase:firebase-database:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\1cc4c4fae69c5d171ef971d39e624095\transformed\firebase-database-20.0.4\AndroidManifest.xml:32:13-34:85
+326                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+326-->[com.google.firebase:firebase-database:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\1cc4c4fae69c5d171ef971d39e624095\transformed\firebase-database-20.0.4\AndroidManifest.xml:33:17-109
+327                android:value="com.google.firebase.components.ComponentRegistrar" />
+327-->[com.google.firebase:firebase-database:20.0.4] C:\Users\roydo\.gradle\caches\transforms-3\1cc4c4fae69c5d171ef971d39e624095\transformed\firebase-database-20.0.4\AndroidManifest.xml:34:17-82
+328            <meta-data
+328-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\roydo\.gradle\caches\transforms-3\8c37661c92b79a5878b1c973853067a3\transformed\firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+329                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+329-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\roydo\.gradle\caches\transforms-3\8c37661c92b79a5878b1c973853067a3\transformed\firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+330                android:value="com.google.firebase.components.ComponentRegistrar" />
+330-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\roydo\.gradle\caches\transforms-3\8c37661c92b79a5878b1c973853067a3\transformed\firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+331            <meta-data
+331-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
+332                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+332-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
+333                android:value="com.google.firebase.components.ComponentRegistrar" />
+333-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
+334            <meta-data
+334-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\roydo\.gradle\caches\transforms-3\99f99401396d9f55a93853a43da58fc1\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+335                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+335-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\roydo\.gradle\caches\transforms-3\99f99401396d9f55a93853a43da58fc1\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+336                android:value="com.google.firebase.components.ComponentRegistrar" />
+336-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\roydo\.gradle\caches\transforms-3\99f99401396d9f55a93853a43da58fc1\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+337            <meta-data
+337-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\roydo\.gradle\caches\transforms-3\63a0c530d09a8d5728d0b4733d2fe136\transformed\firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+338                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+338-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\roydo\.gradle\caches\transforms-3\63a0c530d09a8d5728d0b4733d2fe136\transformed\firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+339                android:value="com.google.firebase.components.ComponentRegistrar" />
+339-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\roydo\.gradle\caches\transforms-3\63a0c530d09a8d5728d0b4733d2fe136\transformed\firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+340        </service>
+341
+342        <activity
+342-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+343            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+343-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+344            android:excludeFromRecents="true"
+344-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+345            android:exported="true"
+345-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+346            android:launchMode="singleTask"
+346-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+347            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+347-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+348            <intent-filter>
+348-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+349                <action android:name="android.intent.action.VIEW" />
+349-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+349-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+350
+351                <category android:name="android.intent.category.DEFAULT" />
+351-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+351-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+352                <category android:name="android.intent.category.BROWSABLE" />
+352-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+352-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+353
+354                <data
+354-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+355                    android:host="firebase.auth"
+355-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+356                    android:path="/"
+356-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+357                    android:scheme="genericidp" />
+357-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+358            </intent-filter>
+359        </activity>
+360        <activity
+360-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+361            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+361-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+362            android:excludeFromRecents="true"
+362-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+363            android:exported="true"
+363-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+364            android:launchMode="singleTask"
+364-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+365            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+365-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+366            <intent-filter>
+366-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+367                <action android:name="android.intent.action.VIEW" />
+367-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+367-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+368
+369                <category android:name="android.intent.category.DEFAULT" />
+369-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+369-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+370                <category android:name="android.intent.category.BROWSABLE" />
+370-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+370-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+371
+372                <data
+372-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+373                    android:host="firebase.auth"
+373-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+374                    android:path="/"
+374-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+375                    android:scheme="recaptcha" />
+375-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\roydo\.gradle\caches\transforms-3\7fddcfd3c35dbaddac36262ddb4d7938\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+376            </intent-filter>
+377        </activity>
+378
+379        <receiver
+379-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
+380            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+380-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
+381            android:exported="true"
+381-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
+382            android:permission="com.google.android.c2dm.permission.SEND" >
+382-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
+383            <intent-filter>
+383-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:35:13-37:29
+384                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+384-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:36:17-81
+384-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:36:25-78
+385            </intent-filter>
+386        </receiver>
+387        <!--
+388             FirebaseMessagingService performs security checks at runtime,
+389             but set to not exported to explicitly avoid allowing another app to call it.
+390        -->
+391        <service
+391-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
+392            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+392-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
+393            android:directBootAware="true"
+393-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
+394            android:exported="false" >
+394-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\roydo\.gradle\caches\transforms-3\40e1e42b87b436914163252dd828f173\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
+395            <intent-filter android:priority="-500" >
+395-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:49:13-51:29
+396                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+396-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:50:17-78
+396-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:50:25-75
+397            </intent-filter>
+398        </service>
+399
+400        <provider
+400-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:25:9-30:39
+401            android:name="com.google.firebase.provider.FirebaseInitProvider"
+401-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:26:13-77
+402            android:authorities="com.kamui.kindnest.firebaseinitprovider"
+402-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:27:13-72
+403            android:directBootAware="true"
+403-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:28:13-43
+404            android:exported="false"
+404-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:29:13-37
+405            android:initOrder="100" /> <!-- Needs to be explicitly declared on P+ -->
+405-->[com.google.firebase:firebase-common:20.3.1] C:\Users\roydo\.gradle\caches\transforms-3\6cc0af6ad0bf16004792c59d4448db9c\transformed\firebase-common-20.3.1\AndroidManifest.xml:30:13-36
+406        <uses-library
+406-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+407            android:name="org.apache.http.legacy"
+407-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+408            android:required="false" />
+408-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\roydo\.gradle\caches\transforms-3\e495a8e34054b7f07070becefea8566a\transformed\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+409
+410        <activity
+410-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\roydo\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+411            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+411-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\roydo\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+412            android:exported="false"
+412-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\roydo\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+413            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+413-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\roydo\.gradle\caches\transforms-3\65104a19be77a9ca9f6b90e7ce85bf77\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+414
+415        <meta-data
+415-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\roydo\.gradle\caches\transforms-3\6acc58db3d65417720f91e8d8eda742d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+416            android:name="com.google.android.gms.version"
+416-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\roydo\.gradle\caches\transforms-3\6acc58db3d65417720f91e8d8eda742d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+417            android:value="@integer/google_play_services_version" />
+417-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\roydo\.gradle\caches\transforms-3\6acc58db3d65417720f91e8d8eda742d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+418
+419        <provider
+419-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+420            android:name="androidx.startup.InitializationProvider"
+420-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+421            android:authorities="com.kamui.kindnest.androidx-startup"
+421-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+422            android:exported="false" >
+422-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+423            <meta-data
+423-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+424                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+424-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+425                android:value="androidx.startup" />
+425-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roydo\.gradle\caches\transforms-3\18724eef8f5dec220d80f3175a16e417\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+426            <meta-data
+426-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roydo\.gradle\caches\transforms-3\eeaaf02ab9884fe160236c35ce9e949d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+427                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+427-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roydo\.gradle\caches\transforms-3\eeaaf02ab9884fe160236c35ce9e949d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+428                android:value="androidx.startup" />
+428-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roydo\.gradle\caches\transforms-3\eeaaf02ab9884fe160236c35ce9e949d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+429        </provider>
+430
+431        <activity
+431-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:27:9-34:20
+432            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+432-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:28:13-99
+433            android:exported="true"
+433-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:29:13-36
+434            android:theme="@android:style/Theme" >
+434-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:30:13-49
+435            <intent-filter>
+435-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+436                <action android:name="android.intent.action.MAIN" />
+436-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:17-69
+436-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:25-66
+437            </intent-filter>
+438        </activity>
+439        <activity
+439-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:35:9-42:20
+440            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+440-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:36:13-95
+441            android:exported="true"
+441-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:37:13-36
+442            android:theme="@android:style/Theme" >
+442-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:38:13-49
+443            <intent-filter>
+443-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+444                <action android:name="android.intent.action.MAIN" />
+444-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:17-69
+444-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:25-66
+445            </intent-filter>
+446        </activity>
+447        <activity
+447-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:43:9-50:20
+448            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+448-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:44:13-103
+449            android:exported="true"
+449-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:45:13-36
+450            android:theme="@android:style/Theme.Dialog" >
+450-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:46:13-56
+451            <intent-filter>
+451-->[androidx.test:core:1.4.0] C:\Users\roydo\.gradle\caches\transforms-3\72d6ab9e124e3ec54647a91762cc300d\transformed\core-1.4.0\AndroidManifest.xml:31:13-33:29
+452                <action android:name="android.intent.action.MAIN" />
+452-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:17-69
+452-->D:\Project 4\Kindnest_App\app\src\main\AndroidManifest.xml:233:25-66
+453            </intent-filter>
+454        </activity>
+455
+456        <service
+456-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+457            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+457-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+458            android:exported="false" >
+458-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+459            <meta-data
+459-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+460                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+460-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+461                android:value="cct" />
+461-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\e20046af27e0c0188bbaf3bfc6f5ac4b\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+462        </service>
+463        <service
+463-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+464            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+464-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+465            android:exported="false"
+465-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+466            android:permission="android.permission.BIND_JOB_SERVICE" >
+466-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+467        </service>
+468
+469        <receiver
+469-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+470            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+470-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+471            android:exported="false" />
+471-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\roydo\.gradle\caches\transforms-3\a43ffd7ac135d30a3dd97d2ce1af423f\transformed\transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+472    </application>
+473
+474</manifest>
