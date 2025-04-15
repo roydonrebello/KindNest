@@ -62,6 +62,28 @@ Follow the steps below to run the Essentials Connect Android app:
    Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/your-username/essentials-connect.git
+## 🧪 How to Run
+
+### 🔧 Open the Project in Android Studio
+1. Launch **Android Studio**
+2. Click on `File` > `Open`, and select the **cloned project directory**
+
+### 🔗 Connect Firebase
+1. Add your `google-services.json` file to the `/app` directory  
+2. *(Or use the existing one if available and properly configured)*
+3. Ensure Firebase dependencies are included in your `build.gradle` files
+
+### ⚙️ Build the Project
+1. Wait for **Gradle** to sync
+2. Resolve any missing dependencies or SDK issues if prompted
+
+### 📱 Run on Emulator or Real Device
+1. Select a device or emulator from the Android Studio toolbar
+2. Click the **Run ▶️** button
+
+---
+
+✅ **You’re now ready to experience the Essentials Connect app in action!**
 
 
 ## 🤝 Contributing
