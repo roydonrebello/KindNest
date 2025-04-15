@@ -57,9 +57,6 @@
 🧪 How to Run
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/essentials-connect.git
 Open in Android Studio
 
