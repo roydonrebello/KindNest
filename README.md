@@ -51,6 +51,8 @@
 ├── 📁 assets/
 │   └── screenshots/
 └── README.md
+```
+
 ---
 🧪 How to Run
 Clone this repository:
