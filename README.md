@@ -54,12 +54,12 @@
 ```
 
 ---
-🧪 How to Run
-Clone this repository:
+## 🧪 How to Run
 
-git clone https://github.com/your-username/essentials-connect.git
-Open in Android Studio
+Follow the steps below to run the Essentials Connect Android app:
 
-Connect Firebase to the project (or use the included google-services.json)
+1. **Clone this repository**  
+   Open your terminal or command prompt and run:
+   ```bash
+   git clone https://github.com/your-username/essentials-connect.git
 
-Build and run the project on an emulator or real device
