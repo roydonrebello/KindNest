@@ -77,5 +77,5 @@ Feel free to fork the repository, make enhancements, and submit a pull request.
 
 For queries or suggestions:  
 📨 [roydonrebello@gmail.com](mailto:roydonrebello@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/roydon-rebello/)
 
