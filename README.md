@@ -32,7 +32,7 @@
 
 ## 🛠️ Built With
 
-- 💻 **Java (Android Studio)**
+- 💻 **Kotlin (Android Studio)**
 - 🗃️ **Firebase** for real-time database and authentication
 - 🧩 **Material Design** for UI components
 - 📍 **Google Maps API** (for geo-location)
