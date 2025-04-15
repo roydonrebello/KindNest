@@ -1,66 +1,53 @@
-📦 Essentials Connect
-Essentials Connect is a mobile application that bridges the gap between donors (like restaurants) and receivers (NGOs) through the help of volunteers. It ensures efficient donation management, minimizes food wastage, and helps distribute essentials to those in need. The system allows seamless coordination between different user roles to manage, track, and deliver donations in real-time.
+# 🌟 Essentials Connect
+
+> A smart Android application that bridges the gap between **Donors**, **NGOs**, and **Volunteers** for efficient donation and service management.
+
 ---
-🚀 Features
-👤 User Roles:
 
-Restaurant/Donor: Can list donations (food, clothes, etc.) with pickup times.
+## 📱 About the Project
 
-NGO: Can request or accept donations based on needs.
+**Essentials Connect** is a real-time mobile platform built to enable seamless donation, request handling, volunteer management, and tracking. Whether you're a restaurant donating surplus food or an NGO managing distributions, Essentials Connect ensures your resources reach the right hands — fast and efficiently.
 
-Volunteer: Assigned to collect and deliver donations.
-
-Admin: Oversees and manages all users and donation activities.
 ---
-📍 Location Tracking: Uses geographic coordinates to assign the nearest volunteer.
+
+## 🚀 Features
+
+- 👤 **User Roles:** Donor, NGO, Volunteer, and Admin
+- 🍱 **Donation Handling:** Schedule pickups, mark availability, and track delivery
+- 📍 **Location Mapping:** Real-time tracking using geo-coordinates
+- 🔐 **Login & Role-based Dashboards**
+- 🛠️ **Admin Control:** View users, approve NGOs, and monitor activities
+- 📈 **Donation Status Page** for up-to-date tracking
+- 🌟 **Reward Points System** for encouragement
+
 ---
-🔐 Authentication: Secure login for each role.
+
+## 🖼️ Screenshots
+
+| Home Page | Donor Dashboard | NGO Dashboard |
+|-----------|------------------|----------------|
+| ![Home](assets/home.png) | ![Donor](assets/donor.png) | ![NGO](assets/ngo.png) |
+
 ---
-📦 Donation Status: Real-time status updates for every donation (Pending, Picked, Delivered).
+
+## 🛠️ Built With
+
+- 💻 **Java (Android Studio)**
+- 🗃️ **Firebase** for real-time database and authentication
+- 🧩 **Material Design** for UI components
+- 📍 **Google Maps API** (for geo-location)
+
 ---
-📸 Profile & Visuals: Uploads and displays profile images, item previews, and donation receipts.
----
-📊 Reward Points: Donors receive reward points for consistent contributions.
----
-📱 Screens / Modules
-Home Page: Overview based on user role
 
-Login & Registration
+## 📂 Folder Structure
 
-Restaurant Dashboard
-
-NGO Dashboard
-
-Volunteer Dashboard
-
-Admin Panel
-
-Donation Status Tracking
----
-🛠️ Built With
-Frontend: Android (XML + Material Design)
-
-Backend: Kotlin + Firebase Realtime Database
-
-Authentication: Firebase Auth
-
-Push Notifications: Firebase Cloud Messaging (FCM)
-
-📷 Screenshots
-(Add some screenshots of your app UI here to showcase features)
-
-✅ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/essentials-connect.git
-Open in Android Studio.
-
-Connect Firebase Project.
-
-Run on emulator or physical device.
-
-📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+```bash
+📦 EssentialsConnect/
+├── 📁 app/
+│   ├── 📁 activities/
+│   ├── 📁 fragments/
+│   ├── 📁 models/
+│   └── 📁 utils/
+├── 📁 assets/
+│   └── screenshots/
+└── README.md
