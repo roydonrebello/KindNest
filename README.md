@@ -51,3 +51,16 @@
 ├── 📁 assets/
 │   └── screenshots/
 └── README.md
+---
+🧪 How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/essentials-connect.git
+Open in Android Studio
+
+Connect Firebase to the project (or use the included google-services.json)
+
+Build and run the project on an emulator or real device
