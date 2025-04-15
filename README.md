@@ -63,3 +63,19 @@ Follow the steps below to run the Essentials Connect Android app:
    ```bash
    git clone https://github.com/your-username/essentials-connect.git
 
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+Feel free to fork the repository, make enhancements, and submit a pull request.
+
+---
+
+## 📧 Contact
+
+For queries or suggestions:  
+📨 [your.email@example.com](mailto:roydonrebello@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+
