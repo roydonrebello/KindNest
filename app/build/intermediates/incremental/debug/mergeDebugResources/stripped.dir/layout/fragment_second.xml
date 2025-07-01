@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Background Image Layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/img3"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"/>
+
+    <!-- Content Layout with Text and Button -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom"
+        android:background="@android:color/transparent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="80dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="20dp"
+            android:text="Got any clothes to donate?"
+            android:background="@android:color/transparent"
+            android:textColor="@android:color/black"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/button_shape"
+            android:text="@string/next"/>
+    </LinearLayout>
+</LinearLayout>

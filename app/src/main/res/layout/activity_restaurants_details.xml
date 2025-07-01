@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".admin.RestaurantsDetails">
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/parent_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:padding="16dp" />-->
+
+    <LinearLayout
+        android:id="@+id/parent_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical" />
+
+    <ImageView
+        android:id="@+id/no_internet_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mercy_04"
+        android:visibility="gone"
+        android:contentDescription="@string/emp_image" />
+<!--    <Button-->
+<!--        android:id="@+id/add_res"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:text="Add Restaurant"/>-->
+
+</LinearLayout>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="admin_access_levels">
+        <item>Full Access</item>
+        <item>Restricted Access</item>
+    </string-array>
+    <string-array name="cuisine_array">
+        <item>Chinese</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+    </string-array>
+    <string-array name="dropdown_options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+    <string-array name="food_pickup">
+        <item>daily</item>
+        <item>weekly</item>
+        <item>monthly</item>
+    </string-array>
+    <string-array name="food_type_array">
+        <item>Perishable</item>
+        <item>Non-perishable</item>
+        <item>Vegetarian</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="ngo_food_donation_type_array">
+        <item>Non-perishable food items</item>
+        <item>Perishable food items</item>
+        <item>Cooked meals</item>
+        <item>Leftover food</item>
+        <item>Bakery items</item>
+    </string-array>
+    <string-array name="ngo_organization_type_array">
+        <item>Non-profit organization</item>
+        <item>Community-based organization</item>
+        <item>Faith-based organization</item>
+        <item>Government organization</item>
+        <item>International organization</item>
+    </string-array>
+    <string-array name="ngo_target_community_array">
+        <item>Children</item>
+        <item>Elderly</item>
+        <item>Homeless</item>
+        <item>Low-income households</item>
+        <item>People with disabilities</item>
+    </string-array>
+    <string-array name="pickup_time_array">
+        <item>Anytime</item>
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+    <string-array name="volunteer_availability_array">
+        <item>Weekdays (Monday-Friday)</item>
+        <item>Weekends (Saturday-Sunday)</item>
+        <item>Evenings (5pm-8pm)</item>
+        <item>Mornings (9am-12pm)</item>
+        <item>Afternoons (1pm-4pm)</item>
+        <item>Flexible</item>
+    </string-array>
+    <string-array name="volunteer_preference_array">
+        <item>Event setup and cleanup</item>
+        <item>Food preparation and cooking</item>
+        <item>Serving food and drinks</item>
+        <item>Donation sorting and packaging</item>
+        <item>Fundraising and outreach</item>
+        <item>Driving and transportation</item>
+        <item>Other</item>
+    </string-array>
+    <color name="accent">#FF0000</color>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#2160D4</color>
+    <color name="colorAccent">#D3D3D3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorPrimary">#E50914</color>
+    <color name="colorPrimaryVariant">#000000</color>
+    <color name="colorSecondary">#3CB371</color>
+    <color name="colorSecondaryVariant">#FFD700</color>
+    <color name="divider">#1F000000</color>
+    <color name="green_700">#232F1A</color>
+    <color name="ic_launcher_background">#ffffff</color>
+    <color name="olive_200">#CADD8D</color>
+    <color name="olive_700">#ABBF6B</color>
+    <color name="pink_200">#F4ECCE</color>
+    <color name="primary">#FF000000</color>
+    <color name="primary_dark">#BF000000</color>
+    <color name="red_200">#E80909</color>
+    <color name="text_primary">#FF000000</color>
+    <color name="text_secondary">#99000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFD21D</color>
+    <color name="yellow_200">#FCC64C</color>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_dialog_content_padding">20dp</dimen>
+    <dimen name="progress_text_marginStart">10dp</dimen>
+    <dimen name="progress_text_size">20sp</dimen>
+    <dimen name="splash_title_text_size">50sp</dimen>
+    <string name="Cuisine">Cuisines</string>
+    <string name="_10_points_for_every_donation_made">10 points for every donation made</string>
+    <string name="_5_points_for_every_donation_claimed">5 points for every donation claimed</string>
+    <string name="add_image">Add Image</string>
+    <string name="address">Address</string>
+    <string name="admin">Admin</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="afternoons_1pm_4pm">Afternoons (1pm-4pm)</string>
+    <string name="anytime">Anytime</string>
+    <string name="app_name">Kindnest</string>
+    <string name="approve_all">Approve All</string>
+    <string name="approve_donation">Approve Donation</string>
+    <string name="availability">Availability</string>
+    <string name="bakery_items">Bakery items</string>
+    <string name="banner">banner</string>
+    <string name="chinese">Chinese</string>
+    <string name="claim">Claim</string>
+    <string name="claimed_donations">Claimed Donations</string>
+    <string name="close">cs</string>
+    <string name="community">Community</string>
+    <string name="confirm_password_hint">reenter your password</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="contact_person">Manager Name</string>
+    <string name="cooked_meals">Cooked meals</string>
+    <string name="create_account">create account</string>
+    <string name="cuisine_prompt">Cuisine</string>
+    <string name="default_notification_channel_id">0618</string>
+    <string name="default_notification_channel_name">com.kamui.fooddonation</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="designation">Designation</string>
+    <string name="do_you_have_leftover_food">Do you have leftover food?</string>
+    <string name="donate_now">Donate Now</string>
+    <string name="donation_sorting_and_packaging">Donation sorting and packaging</string>
+    <string name="driving_and_transportation">Driving and transportation</string>
+    <string name="edit">Edit</string>
+    <string name="email">abc@example.com</string>
+    <string name="email_hint">enter your email</string>
+    <string name="email_id">Email ID</string>
+    <string name="emp_image">Emp_Image</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="evening">Evening</string>
+    <string name="evenings_5pm_8pm">Evenings (5pm-8pm)</string>
+    <string name="event_setup_and_cleanup">Event setup and cleanup</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="faith_based">Faith-based</string>
+    <string name="firebase_database_url" translatable="false">https://kindnest-app-default-rtdb.firebaseio.com</string>
+    <string name="flexible">Flexible</string>
+    <string name="food_donation_type">Food Donation Type</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_pickup">Food Pickup</string>
+    <string name="food_preparation_and_cooking">Food preparation and cooking</string>
+    <string name="food_type">Food Type</string>
+    <string name="food_type_prompt">Food Type</string>
+    <string name="full_access">Full Access</string>
+    <string name="full_name_hint">enter your Name</string>
+    <string name="fundraising_and_outreach">Fundraising and outreach</string>
+    <string name="gcm_defaultSenderId" translatable="false">249559689115</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyDOmSetLhecaYi5WjZNGCt0Cm2vk8iDlig</string>
+    <string name="google_app_id" translatable="false">1:249559689115:android:e881f45643f92834ed233e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOmSetLhecaYi5WjZNGCt0Cm2vk8iDlig</string>
+    <string name="google_storage_bucket" translatable="false">kindnest-app.firebasestorage.app</string>
+    <string name="government">Government</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="indian">Indian</string>
+    <string name="international">International</string>
+    <string name="italian">Italian</string>
+    <string name="japanese">Japanese</string>
+    <string name="leftover_food">Leftover food</string>
+    <string name="logout">Logout</string>
+    <string name="manage_profile">manage profile</string>
+    <string name="mexican">Mexican</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="morning">Morning</string>
+    <string name="mornings_9am_12pm">Mornings (9am-12pm)</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="ngo">Ngo</string>
+    <string name="ngo_Donation_type">Donation Type</string>
+    <string name="ngo_name_hint">Enter your ngo name</string>
+    <string name="ngo_nearby">Ngo nearby</string>
+    <string name="ngo_organization_type">Organization Type</string>
+    <string name="ngo_pickup_time">Pickup Time</string>
+    <string name="ngo_s_have_joined_us">NGO\'s have joined us</string>
+    <string name="ngo_s_tax_id_or_registration_number">NGO\'s tax ID or registration number</string>
+    <string name="ngo_target_community">Target Community</string>
+    <string name="night">Night</string>
+    <string name="no_donations_available">No donations available</string>
+    <string name="no_ngo_available">No ngo available</string>
+    <string name="non_perishable">Non-Perishable</string>
+    <string name="non_profit">Non Profit</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="open">op</string>
+    <string name="or">or</string>
+    <string name="organization_type">Organization Type</string>
+    <string name="password">password</string>
+    <string name="password_hint">enter your password</string>
+    <string name="perishable">Perishable</string>
+    <string name="phone_hint">enter your phone no</string>
+    <string name="phone_number">1234567890</string>
+    <string name="pickup_time">Pickup Time</string>
+    <string name="please_click_back_again_to_exit">click again to exit</string>
+    <string name="please_wait">Please Wait!</string>
+    <string name="preferred_type_of_volunteering_opportunity">Preferred Type of Volunteering Opportunity</string>
+    <string name="proceed_to_pickup">Proceed to pickup</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">kindnest-app</string>
+    <string name="quantity">Quantity</string>
+    <string name="receiver">Receiver</string>
+    <string name="receiver_address_hint">enter your address</string>
+    <string name="receiver_phone_hint">enter your phone no</string>
+    <string name="recent_donation">Recent Donation</string>
+    <string name="restaurant">Donor</string>
+    <string name="restaurant_address_hint">enter your address</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_name_hint">enter your restaurant name (optional)</string>
+    <string name="restaurant_signin">Welcome Back</string>
+    <string name="restaurant_signup">Join Us</string>
+    <string name="restaurant_title">Make a Difference</string>
+    <string name="restaurants_have_joined_us">Donors have joined us</string>
+    <string name="restricted_access">Restricted Access</string>
+    <string name="rewards_distribution">Rewards Distribution</string>
+    <string name="select_access_level">Access Level</string>
+    <string name="serving_food_and_drinks">Serving food and drinks</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signin_button">Sign In</string>
+    <string name="signup_button">join us</string>
+    <string name="submit">Submit</string>
+    <string name="target_community">Target Audience</string>
+    <string name="track">Track</string>
+    <string name="track_donations">Track Donations</string>
+    <string name="update">Update</string>
+    <string name="upload">Upload</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="weekdays_monday_friday">Weekdays (Monday-Friday)</string>
+    <string name="weekends_saturday_sunday">Weekends (Saturday-Sunday)</string>
+    <string name="who_would_you_like_to_feed">WHO WOULD YOU LIKE TO FEED</string>
+    <string name="your_rewards_points">Your Rewards Points:</string>
+    <style name="AppTheme.ActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar.Primary">
+        <item name="android:textColor">@color/red_200</item>
+    </style>
+    <style name="AppTheme.OnboardScreen" parent="Theme.KamuiFoodDonationApp">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/montserratregular</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="AppTheme.SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/montserratalternatesbolditalic</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="AppTheme.loginScreen" parent="Theme.KamuiFoodDonationApp">
+        <item name="android:fontFamily">@font/montserratalternatesbolditalic</item>
+    </style>
+    <style name="AppTheme.signupScreen" parent="Theme.KamuiFoodDonationApp">
+        <item name="android:fontFamily">@font/montserratalternatesbolditalic</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="AppTheme.sliderScreen" parent="Theme.KamuiFoodDonationApp">
+        <item name="android:fontFamily">@font/montserratalternatesbolditalic</item>
+    </style>
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/black</item>
+    </style>
+    <style name="MyButtonTheme">
+        <item name="colorButtonNormal">@color/yellow_200</item>
+    </style>
+    <style name="Theme.KamuiFoodDonationApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:fontFamily">@font/montserratregular</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/accent</item>
+        
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/yellow_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/red_200</item>
+        
+        <item name="android:buttonStyle">@color/red_200</item>
+        
+        <item name="actionBarTheme">@style/AppTheme.ActionBar</item>
+    </style>
+</resources>
